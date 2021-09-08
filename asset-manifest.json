@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/schooldaily/static/css/main.7957f264.chunk.css",
+    "main.js": "/schooldaily/static/js/main.53006a8f.chunk.js",
+    "main.js.map": "/schooldaily/static/js/main.53006a8f.chunk.js.map",
+    "runtime-main.js": "/schooldaily/static/js/runtime-main.7ec06725.js",
+    "runtime-main.js.map": "/schooldaily/static/js/runtime-main.7ec06725.js.map",
+    "static/js/2.7e0b22bc.chunk.js": "/schooldaily/static/js/2.7e0b22bc.chunk.js",
+    "static/js/2.7e0b22bc.chunk.js.map": "/schooldaily/static/js/2.7e0b22bc.chunk.js.map",
+    "static/js/3.73607b7e.chunk.js": "/schooldaily/static/js/3.73607b7e.chunk.js",
+    "static/js/3.73607b7e.chunk.js.map": "/schooldaily/static/js/3.73607b7e.chunk.js.map",
+    "index.html": "/schooldaily/index.html",
+    "static/css/main.7957f264.chunk.css.map": "/schooldaily/static/css/main.7957f264.chunk.css.map",
+    "static/js/2.7e0b22bc.chunk.js.LICENSE.txt": "/schooldaily/static/js/2.7e0b22bc.chunk.js.LICENSE.txt",
+    "static/media/attendance.fb1891a8.svg": "/schooldaily/static/media/attendance.fb1891a8.svg",
+    "static/media/child-notification.3cb90c71.svg": "/schooldaily/static/media/child-notification.3cb90c71.svg",
+    "static/media/communication.72c8c064.svg": "/schooldaily/static/media/communication.72c8c064.svg",
+    "static/media/dancing.28f509dc.svg": "/schooldaily/static/media/dancing.28f509dc.svg",
+    "static/media/dbAdmin.9251943e.svg": "/schooldaily/static/media/dbAdmin.9251943e.svg",
+    "static/media/fees-payment.721f9317.svg": "/schooldaily/static/media/fees-payment.721f9317.svg",
+    "static/media/leave-application.f8a224d3.svg": "/schooldaily/static/media/leave-application.f8a224d3.svg",
+    "static/media/logo.6ce24c58.svg": "/schooldaily/static/media/logo.6ce24c58.svg",
+    "static/media/perfChart.a823d45c.svg": "/schooldaily/static/media/perfChart.a823d45c.svg",
+    "static/media/reports.7a5ef1cb.svg": "/schooldaily/static/media/reports.7a5ef1cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ec06725.js",
+    "static/js/2.7e0b22bc.chunk.js",
+    "static/css/main.7957f264.chunk.css",
+    "static/js/main.53006a8f.chunk.js"
+  ]
+}
