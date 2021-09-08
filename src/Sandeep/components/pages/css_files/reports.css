@@ -1,0 +1,32 @@
+.reports{
+  /* padding-left: 10%; */
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.reports-graph{
+  /* padding-left: 10%; */
+    height: 50%;
+    width: 50%;
+    /* display: flex; */
+}
+.reports-option{
+    padding-left: 40%;
+    height: 50%;
+    width: 50%;
+    margin: 0%;
+    /* display: none; */
+}
+.graphlist{
+  display: none;
+}
+.reports canvas{
+
+  width:100% !important;
+  height:100% !important;
+}
+
+.dropdown{
+  width: 80%;
+}

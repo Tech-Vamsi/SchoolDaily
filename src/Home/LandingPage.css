@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.pg-ctn{
+    width: auto;
+    height: auto;
+    /* background-color: rgba(209, 203, 203, 0.507); */
+}
+.backdrop-img{
+    z-index: 3;
+    position: absolute;
+    top:30vh;
+    left: 52vw;
+    
+}
+svg{
+    width: 30vw;
+    height: 50vh;
+}
+.backdrop{
+    position: absolute;
+    z-index: -1;
+    height:inherit;
+    width: 100%;
+    background:linear-gradient(#667eea ,#764ba2);
+    clip-path: polygon(0 0, 100% 0%, 100% 70%, 0 100%, 0% 50%);
+
+}
+.intro-hdr{
+    height:80vh;
+    width: 100%;
+    z-index: 100;
+    
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+ 
+}
+.hero{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    z-index: 1000;
+    align-items: flex-start;    
+    justify-content: space-evenly;
+    margin-top:100px;
+    
+    
+}
+.intro-article{
+  padding-left: 50px;
+    display: flex;
+    flex-direction:column;
+    height: 100%;
+    width: 100%;
+
+}
+.intro-article-hdr{
+display: flex;
+flex-direction: column;
+font-size: 3rem;
+}
+.intro-main{
+    font-size: 8rem;
+    
+}
+.intro-article-desp{
+    font-size:2rem;
+    color:black;
+    font-weight:bold;
+    width: 50%;
+}

@@ -1,0 +1,53 @@
+.data{
+    box-shadow: violet;
+}
+.student-data{
+    /* background-color:#6C63FF; */
+    width: 70%;
+    height: 40%;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px #C1FFC1;
+    border-radius: 10px;
+}
+.attribute-name{
+    font-weight:bolder;
+    font-family: 'Jura', sans-serif;
+}
+.ward-info{
+    font-weight:lighter;
+    font-size: smaller;
+    font-family: 'Jura', sans-serif;
+}
+.edit-data{
+    visibility: hidden;
+    width: 120px;
+}
+.pencil-logo{
+    margin-left: 0.5%;
+    background-color:white ;
+    width: 1.5%;
+    height: 1.5%;
+    margin-left: 10px;
+}
+.ward-info:hover .edit-data{
+    visibility: visible;
+    background-color:whitesmoke;
+    font-size: 10px;
+    position: relative;
+    bottom:10px;
+}
+.details:hover{
+    font-size: large;
+}
+.details{
+    color: black;
+}
+.reports-heading{
+    text-align: center;
+    padding-left: 40%;
+    text-decoration: underline;
+}
+.dropdown{
+    width: 35%;
+    display: inline !important;
+}

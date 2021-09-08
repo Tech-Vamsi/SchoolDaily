@@ -1,0 +1,45 @@
+.parent-feature{
+    /* display: inline-block; */
+    width: 100%;
+}
+.parent-feature img{
+   width: 100%;
+   padding-top: 30px;
+   display: inline;
+   transition: transform 0.2s;
+}
+.parent-feature img:hover{
+    -ms-transform: scale(1.1); 
+  -webkit-transform: scale(1.1); 
+  transform: scale(1.1);
+}
+
+/* .parent-feature p{
+    font-weight: bolder;
+    font-size: medium;
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+    justify-content: wr;
+    object-fit: cover;
+}
+
+.parent-feature p:hover{
+    font-size: large;
+} */
+
+/* #leave-logo{
+    object-fit:cover;
+    width: 300px;
+    height: 300px;
+    margin-inline-start: 150px;
+} */
+
+/* #attendance-logo{
+    object-fit:cover;
+    width: 300px;
+    height: 300px;
+    margin-inline-start: 200px;
+} */
+/* .parents-feature__divider{
+    display: inline;
+} */
